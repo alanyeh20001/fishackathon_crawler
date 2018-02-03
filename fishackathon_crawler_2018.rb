@@ -19,7 +19,7 @@ data: {
 =end
 
 $domain = "https://fisheryprogress.org"
-$store_path = "/Users/alanyeh/Documents/fishackathon_crawler_v2.csv"
+$store_path = "/Users/alanyeh/Documents/fishackathon_crawler_v3.csv"
 
 def fip_crawl
   index_url = "#{$domain}/directory/prospective"
